@@ -1,0 +1,7 @@
+dist/
+build/
+nbproject/Makefile-default
+nbproject/Makefile-impl
+nbproject/Makefile-local-default
+nbproject/Makefile-variables
+nbproject/Package-default.bash
